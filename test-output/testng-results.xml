@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T01:04:21 IST" name="Default suite" finished-at="2024-09-24T01:04:22 IST" duration-ms="1449">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T01:04:21 IST" name="Default test" finished-at="2024-09-24T01:04:22 IST" duration-ms="1449">
+      <class name="introduction.WaystoPost">
+        <test-method signature="testPostusingExternalJSONFile()[pri:0, instance:introduction.WaystoPost@58695725]" started-at="2024-09-24T01:04:21 IST" name="testPostusingExternalJSONFile" finished-at="2024-09-24T01:04:22 IST" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostusingExternalJSONFile -->
+      </class> <!-- introduction.WaystoPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
